@@ -19,7 +19,7 @@ Camera movements and timing to produce a smooth sequence
 
 Blender (modeling, animation, camera setup)
 
-💬 Notes
+# 💬 Notes
 
 This project was made as a concept for the Innovast Challenge, focusing on animation, creativity, and 3D storytelling.
 Although the final challenge submission wasn’t completed, it demonstrates modeling and animation skills with Baridi Mob branding.
